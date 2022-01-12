@@ -1,0 +1,7 @@
+[Still the Silence: Feminist Reflections at the Edges of Sound](https://link.springer.com/chapter/10.1057/9781137002372_1)
+
+"Silence, Feminism, Power examines silence as a space of possibility. The authors argue that in entering the stillness of silence we might communicate deeply at the edges of sound. Silence allows us the space to breathe. It allows us the freedom of not having to exist constantly in reaction to what is said. Standing in silence allows for that breath, for that reflection that can create a space of great healing. We theorize silence as a space of fluidity, non-linearity, and as a sacred, internal space that provides a refuge—especially for nondominant peoples. [[Silence]] is a process that allows one to go within before one has to speak or act. This is crucial if our work as activists, writers, and creative artists is to come from a grounded place that connects the spiritual with the political. In what follows we detail the various literature on silence and voice. We begin with a discussion of disciplinary and interdisciplinary treatments of silence, exploring the ways in which disciplinarity can enable, but also constrain, how silence is theorized. Next, we provide a more detailed account of feminist treatments of silence. Finally, we trace a genealogy of feminist treatments of silence as a political and intellectual point of departure for this volume."
+
+[[Composing Paradoxes-Feminist Process - Ingleton]] [[feminist theory]] [[sound]]
+
+#sound #feministsoundtheory

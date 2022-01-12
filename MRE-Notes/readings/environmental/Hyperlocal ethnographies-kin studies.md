@@ -1,0 +1,5 @@
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 2020 <a href="https://twitter.com/geotransversals?ref_src=twsrc%5Etfw">@geotransversals</a> and I wrote about the need for ‘hyperlocal ethnographies’ (‘enviro<br>kin studies’) to counter the totalizing effects of western academic universalization and fetishizing of environmental crises as ‘hyperobjects’ that erase local knowledge &amp; experience.</p>&mdash; Dr Fish Philosopher Todd (Dr FPT)🐟 {an archive ✨} (@ZoeSTodd) <a href="https://twitter.com/ZoeSTodd/status/1478042693066395648?ref_src=twsrc%5Etfw">January 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![[Pasted image 20220105191347.png]]
+
+https://twitter.com/ZoeSTodd/status/1478042693066395648?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1478042693066395648%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FZoeSTodd2Fstatus2F1478042693066395648widget%3DTweet

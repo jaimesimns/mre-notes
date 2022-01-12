@@ -1,0 +1,30 @@
+# Soundwalking: creating moving environmental sound narratives
+
+McCartney, A. (2010) Soundwalking: creating moving environmental sound narratives. Soundwalking Interactions. https://soundwalkinginteractions.wordpress.com/2010/09/27/soundwalking-creating-moving-environmental-sound-narratives/
+
+Need for [[accessibility]]:
+"Since the term soundwalking focuses on the act of walking, it could be understood to exclude those who are not able to walk and require wheelchairs or strollers. While some walks are planned to allow access to such conveyances, this is not always the case. Wilderness hiking trails are particularly exclusive in this respect. This is not the only exclusion fostered by a choice of such a location. When soundwalks are planned in remote locations that require participants to use individual transport to get there, such choices have political implications: as Alexander Wilson (1998) points out, access to wilderness parks is the [[privilege]] of the middle class who have cars. He notes that in some cases, roads to parks were designed with bridges that exclude public transport, a move which explicitly excluded those who do not have cars; while in many others there are no public buses or trains that will take people directly to parks. Because of the association of soundwalks with the World Soundscape Project and the northern pastoralism of its founder, R. Murray Schafer, wilderness parks have been a favored location for soundwalks. However, in recent years, there has been an increase in public walks and soundwalk research projects planned in accessible locations associated with music festivals and urban sonic research groups."
+
+"In the studio, noise is considered a problem to be baffled, and in everyday life, noise is something to be avoided, blocked out or ignored. In soundwalks, noises and their relationships can be the focus of attention and participants can be asked to consider their place in the soundscape and their cultural significance in that context. This ideology of considering all sounds, including those usually discounted as noise, is similar to that of John Cage, who said that the use of electrical instruments “will make available for musical purposes any and all sounds that can be heard” (1961: 4)."
+
+" It is important to note that many of the major figures in the field of soundwalking are women, unlike with many other areas of electroacoustic sound art and research, indicating possibilities for changing gender dynamics in relation to sound and technology."
+- most soundwalk artists are women (are sonification artists mostly men?) - an entry point for challenging gendered notions of sound
+- recording done by women can also show how women's "movements through public space are marked and regulated."
+
+### [[Dislocated Soundwalks]]?
+"Soundscape theorist Murray Schafer was concerned about how the mediation of sounds as they are dislocated from their source make them schizophonic (a term invented by him that means sound split from its source, that can also imply schizophrenia and mental disassociation).
+
+However, schizophonia can also lead to schismogenesis, or the birth of new perspectives, as Steven Feld points out (1994). Putting interpretations of soundwalk experiences into different historical and geographical contexts can lead to further insights."
+
+### Audio Walks?
+"[[Audio walks]] share with soundwalks their emphasis on sonic experiences of particular places, but there are some significant differences in conceptualization and practice." 
+"The focus of audio walks is not [[acoustic ecology]] but rather the creation of a directed narrative using environmental sounds as a base or ambient track, as in a film soundtrack. There are frequent references to film culture in writing about audio walks. Schaub refers to the work as physical cinema, and says that Cardiff “creates a soundtrack for the real world” (25). This emphasis on the created or imaginary world superimposed over real world sounds differs from acoustic ecologists’ desire for listeners to pay attention to the sounds of the environment for their own intrinsic qualities and  social meanings."
+Listeners walk through the site wearing headphones. The walks encourage slippage between the real environment that the listener walks through and the imaginary environment created and directed by Cardiff and Miller. The relationship with the audience is one of intimacy and direct authority, since Cardiff tells audience members exactly where to walk, controls pacing by asking listeners to match her footsteps, directs attention to particular visual and haptic features of the location, and suggests lines of thought or inquiry. Environmental sounds feature prominently at times in the soundtrack but the main focus of attention is the voice and its narrative flow.
+By its emphasis on audio production of a directed and multi-layered narrative, the audio walk leads the listener into an imaginary world in which real sounds and architectural features blend into a mysterious narrative, drawing on that place.
+
+Andrea Polli has integrated soundwalks into her [[geosonification]] work, most recently in Antarctica (2009). In Montreal, the Journées Sonores: canal de Lachine project used the recording of individual soundwalks and commented walks by local residents, as well as public walks followed by reflective discussions, and the development of an interactive installation, as research methods to think about the changing sonic environment in an urban area over a time of significant change, as a disused industrial [[canal]] formerly known as the birthplace of Canadian industry was re-opened to public recreational traffic (McCartney 2005).
+
+
+[[x - Soundwalking]] [[Composing Paradoxes-Feminist Process - Ingleton]] [[feminist environmental]]
+
+#soundtheory #soundecology #soundwalking #audiowalks #geosonification #envhist #industry

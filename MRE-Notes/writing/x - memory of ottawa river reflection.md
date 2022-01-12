@@ -1,0 +1,8 @@
+"They, like my neighbour, view the official heritage discourse as quite distant from their own lives and memories" [[Svensson, 2021]]
+- perhaps that's why there's so much interest in 'local' or unofficial histories in the area: Ottawa posits itself as the nation's capital, and only celebrates and shares the histories that fit that and that fit the importance that the city feels.
+- All of the 'old Ottawa' or 'old ---'  Facebook sites, webpages, etc. show that people are interested in reminiscing and sharing their past, but that they don't see their pasts represented within the official narrative
+	- **important to recognize that the history that people want to share is white, colonial history, and that its place as buried under the official narrative while still being an incredibly priviledged history speaks to how buried and unappreciated less priviledged histories are - especially in regards to Indigenous and racialized histories within the region (or BIPOC?)
+	- side note about London Oxford and his family, and the lack of research about him (also the lack of sources), and his exclusion from the main painting commemorating Philemon Wright
+
+
+- also good to mention the sanitisation of the history re that period that is mentioned - the focus on the white, rich men running the city and ignoring the working class, new immigrants, women, Indigenous people, racialized people, etc. in those narratives; in addition ignoring the environmental history and the destruction that was caused

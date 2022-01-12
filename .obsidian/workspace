@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "9d0e23944490e497",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e384bc5ccd6bf04",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Outline.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8818f75dd9a58a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "926f44d70ff7fff7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b771c11716336ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b95c8c278d9d4846",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "kin-st",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0209e603aab3ef3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MRE-Notes/readings/environmental/Kanngeiser and Zoe S. Todd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213
+  },
+  "right": {
+    "id": "de4432566af847e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "78a42c3683a821b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53741355ddee9c7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Outline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8e384bc5ccd6bf04",
+  "lastOpenFiles": [
+    "Outline.md",
+    "MRE-Notes/sound art section plan.md",
+    "MRE-Notes/What am I doing.md",
+    "MRE-Notes/readings/environmental/Kanngeiser and Zoe S. Todd.md",
+    "MRE-Notes/writing/Colonialism writing.md",
+    "MRE-Notes/readings/environmental/Northern Steamboats - Tatley - 1996.md",
+    "MRE-Notes/readings/research/Steamboats and Settler Colonialism.md",
+    "MRE-Notes/What's Left (to do).md",
+    "MRE-Notes/readings/sound/Australian colonial folk music.md",
+    "MRE-Notes/readings/Thinking with History About the Future with Immersive Technology.md"
+  ]
+}
